@@ -63,7 +63,7 @@ Date of finished: 20.03.2026
 - lab2
 - lab3
 
-![Структура репозитория](images/repo_files.png)
+![Структура репозитория](images/Lab0_repo_files.png)
 
 *Рисунок 2 — Структура и файлы репозитория.*
 
