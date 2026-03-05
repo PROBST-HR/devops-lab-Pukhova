@@ -11,3 +11,8 @@ lab3 – fourth laboratory work
 
 ## Author
 Student: Diana Pukhova
+## Project structure
+- lab0
+- lab1
+- lab2
+- lab3
