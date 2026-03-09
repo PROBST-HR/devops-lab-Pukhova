@@ -99,4 +99,5 @@ Description of the first laboratory work on Docker.
 ![Сборка 3](images/Lab1_17.png)
 ![Проверка](images/Lab1_16.png)
 
+# Итог
 Впервые работая с Docker, я смогла запустить контейнер и Flask-приложение, познакомилась с созданием образов и управлением контейнерами.
