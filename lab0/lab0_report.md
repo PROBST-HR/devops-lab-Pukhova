@@ -1,7 +1,5 @@
 # Lab 0 Report
 
-Description of the first laboratory work.
-
 University: ITMO University  
 Faculty: FTMI  
 Course: Intro Web Technologies  
@@ -14,7 +12,7 @@ Date of finished: 20.03.2026
 
 ---
 
-# Lab0 — Основы работы с Docker
+# Lab0 — Создание репозитория и настройка рабочего окружения
 
 ## Цель работы
 
