@@ -1,4 +1,4 @@
-# Lab 1 Report
+# Lab №1 Report
 
 Description of the first laboratory work on Docker.
 
@@ -14,7 +14,7 @@ Description of the first laboratory work on Docker.
 
 ---
 
-# Lab1 — Docker Basics Setup
+# Lab№ 1 — Основы работы с Docker
 
 ## Цель работы
 
