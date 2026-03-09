@@ -41,3 +41,6 @@ Description of the first laboratory work on Docker.
 ### 1. Установка Docker
 
 Установила Docker Desktop на Mac. Проверка установки:
+
+![Установка](images/Lab1_1.png)
+
