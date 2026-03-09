@@ -1,5 +1,3 @@
-# Lab №1 Report
-
 **University:** ITMO University  
 **Faculty:** FTMI  
 **Course:** Intro Web Technologies  
@@ -12,7 +10,7 @@
 
 ---
 
-# Lab№ 1 — Основы работы с Docker
+# Lab № 1 Report: Основы работы с Docker
 
 ## Цель работы
 
