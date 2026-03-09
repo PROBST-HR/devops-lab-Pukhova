@@ -8,6 +8,8 @@ Lab: Lab0
 Date of create: 27.02.2026  
 Date of finished: 20.03.2026
 
+Description of laboratory work 0.
+
 ---
 
 # Lab 0: Создание репозитория и настройка рабочего окружения
