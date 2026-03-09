@@ -8,9 +8,11 @@
 **Date of create:** 27.02.2026  
 **Date of finished:** 20.03.2026
 
+Description of laboratory work 1.
+
 ---
 
-# Lab № 1 Report: Основы работы с Docker
+# Lab 1 Report: Основы работы с Docker
 
 ## Цель работы
 
