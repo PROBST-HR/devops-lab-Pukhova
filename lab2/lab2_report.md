@@ -8,7 +8,9 @@ Lab: Lab0
 Date of create: 27.02.2026  
 Date of finished: 20.03.2026
 
-# Lab №2 Report: CI/CD для Docker приложения
+Description of laboratory work 2.
+
+# Lab 2 Report: CI/CD для Docker приложения
 
 ## Цель работы
 Настроить автоматизированный пайплайн для сборки Docker образа из Flask приложения, публикации в Docker Hub и проверки деплоя с помощью GitHub Actions.
