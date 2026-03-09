@@ -14,7 +14,7 @@ Date of finished: 20.03.2026
 
 ---
 
-# Lab0 — GitHub Repository Setup
+# Lab0 — Основы работы с Docker
 
 ## Цель работы
 
