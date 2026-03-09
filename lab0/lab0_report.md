@@ -1,5 +1,3 @@
-# Lab 0 Report
-
 University: ITMO University  
 Faculty: FTMI  
 Course: Intro Web Technologies  
@@ -12,7 +10,7 @@ Date of finished: 20.03.2026
 
 ---
 
-# Lab0 — Создание репозитория и настройка рабочего окружения
+# Lab 0: Создание репозитория и настройка рабочего окружения
 
 ## Цель работы
 
