@@ -1,0 +1,32 @@
+site_name: Diana Pukhova
+site_description: Персональный сайт
+site_author: Diana
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - search.share
+
+nav:
+  - Главная: index.md
+  - О себе: about.md
+  - Проекты: projects.md
+  - Контакты: contacts.md
+
+theme:
+ name: material
+ palette:
+    - primary: grey
+    - accent: black
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/PROBST-HR
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/dianapukhova
+
